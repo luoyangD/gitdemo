@@ -2,3 +2,4 @@ hello luoyang!
 fix master-test 
 fix2
 fix3 merge-test2
+fix3 merge test
